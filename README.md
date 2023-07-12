@@ -6,11 +6,8 @@ Install the following locally:
 
 - Python 3.8+
 - Airflow 2.3+
-Ensure that you have access to the Airflow web interface after installing it by running airflow standalone.
 
 use the [constraints file](constraints) to setup the airflow locally in a venv
-
-Explore some DAGs (directed acyclic graphs) or data pipelines in the Airflow web interface.
 
 Python packages: install the required packages using the [requirements file](requirements.txt)
 
