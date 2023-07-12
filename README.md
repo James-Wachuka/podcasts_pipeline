@@ -52,11 +52,11 @@ You can customize this project in the following ways
 
 - Add speech recognition, summaries using Airflow.
 
-## Contributing
+## CONTRIBUTING
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
 
-## License
+## LICENSE
 
 This project is licensed under the [MIT License](LICENSE).
 
