@@ -8,7 +8,7 @@ Install the following locally:
 - Airflow 2.3+
 Ensure that you have access to the Airflow web interface after installing it by running airflow standalone.
 
-use the [constraints file](constraints.txt) to setup the airflow locally in a venv
+use the [constraints file](constraints) to setup the airflow locally in a venv
 
 Explore some DAGs (directed acyclic graphs) or data pipelines in the Airflow web interface.
 
