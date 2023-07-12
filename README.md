@@ -1,5 +1,5 @@
 ## AIRFLOW DATA PIPELINE TO DOWNLOAD PODCASTS
-build a four-step data pipeline using Airflow, which is a popular, Python-based data engineering tool for defining and running very powerful and flexible data pipelines. The pipeline will download podcast episodes.
+Building a four-step data pipeline using Airflow,The pipeline will download podcast episodes.
 
 ## PREREQUISITES
 Install the following locally:
